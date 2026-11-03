@@ -57,7 +57,7 @@
 
 
 ## Github Stats  
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/KINEKERRR=anuraghazra&layout=pie)](https://github.com/stats-organization/github-stats-extended)
+<img [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/KINEKERRR=anuraghazra&layout=pie)](https://github.com/stats-organization/github-stats-extended) />
 <br />
 
 ----
