@@ -1,66 +1,78 @@
-### <div align="center">I'm Maxim, a frontend developer </div>  
-  
+### <div align="center">Hi, I'm Maxim 👋</div>
 
-- Сейчас я активно изучаю React  
-  
-
-- Участник основы школы 21  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<div align="center">
+  <h3>Frontend Developer | React & JavaScript</h3>
+  <p>Student at School 21, passionate about web development and building interactive applications.</p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+- 🌱 Currently improving my skills in **React and Redux Toolkit**
+- 💻 Working on educational and personal web development projects
+- 🎓 Student at **School 21**
+- 🚀 Interested in frontend development and modern web technologies
 
+---
 
-### Still learning  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+## My Tech Stack
+
+### Frontend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,figma" />
 </div>
 
-</td><td valign="top" width="33%">
+### Backend & Databases
 
-
-
-### Practice or used to  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 </div>
 
-</td></tr></table>  
+### Tools
 
-<br/>  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</div>
 
+### Currently Learning
 
-## Github Stats  
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=KINEKERRR&hide_border=true&layout=pie&theme=radical"
-  align="left"
-  style="width: 50%"
-/>
-<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,vue" />
+</div>
 
-----
+### Other Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,php" />
+</div>
+
+---
+
+## Featured Projects
+
+- 🎮 **SeaBattle** — Team-based web game
+- 🛒 **React Marketplace** — Online store built with React and Redux Toolkit
+- ⚡ **Pokémon API** — React application using external API data
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KINEKERRR&hide_border=true&layout=pie&theme=radical"
+    width="50%"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KINEKERRR&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Always learning, always building.</i>
+</div>
